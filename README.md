@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simon-vyhnis
 - 👀 I’m interested in all kinds of programming
-- 🌱 I’m currently learning php and js
+- 🌱 I’m currently learning advanced asp.net programming
 - 💞️ I’m looking to collaborate on some cool web apps
 - 📫 How to reach me simon.vyhnis@gmail.com
 
