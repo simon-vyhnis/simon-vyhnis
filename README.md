@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simon-vyhnis
-- 👀 I’m interested in all kinds of programming
-- 🌱 I’m currently learning advanced asp.net programming
+- 👀 I’m interested in electrotechnics and biotechnology
+- 🌱 I’m currently preparing for CTU electrotechnic
 - 💞️ I’m looking to collaborate on some cool web apps
 - 📫 How to reach me simon.vyhnis@gmail.com
 
